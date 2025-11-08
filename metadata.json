@@ -1,0 +1,5 @@
+{
+  "name": "PDF Quiz Generator",
+  "description": "Upload a PDF document and instantly generate a timed, multiple-choice quiz based on its content. Customize the number of questions and time per question for a tailored learning experience.",
+  "requestFramePermissions": []
+}
